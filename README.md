@@ -5,3 +5,5 @@
 <li>Servo Motor</li>
 <li>5v Relay</li>
 <li>Jumper cables</li>
+<h3>Photo</h3>
+<a href=photo.jpg></a>
