@@ -5,5 +5,6 @@ This is my mini project on aquarium monitoring. I want to make a system to contr
 <li>Servo Motor</li>
 <li>5v Relay</li>
 <li>Jumper cables</li>
+<li>RTC(Real Time Clock) module</li>
 <h3>Photo</h3>
 <img src="photo.jpg" alt="Aquascape + System">
